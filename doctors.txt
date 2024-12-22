@@ -1,0 +1,10 @@
+Dr. Cardio, Cardiology
+Dr. Neuro, Neurology
+Dr. Ortho, Orthopedics
+Dr. Peads, Pediatrics
+Dr. Onco, Oncology
+Dr. Derma, Dermatology
+Dr. Gastro, Gastroenterology
+Dr. Psyc, Psychiatry
+Dr. Uro, Urology
+Dr. General, General Medicine
